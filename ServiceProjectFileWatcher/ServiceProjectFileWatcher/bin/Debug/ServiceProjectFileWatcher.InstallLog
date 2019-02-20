@@ -1,0 +1,589 @@
+﻿Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Попытка останова службы FileWatcher.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба FileWatcher...
+Служба FileWatcher успешно установлена.
+Создается исходный EventLog FileWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog FileWatcher.
+Выполняется удаление службы FileWatcher из системы...
+Служба FileWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = C:\Users\lozhk\Desktop\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
+Выполняется установка сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Устанавливается служба DesktopFileWatcher...
+Служба DesktopFileWatcher успешно установлена.
+Создается исходный EventLog DesktopFileWatcher в журнале Application...
+Выполняется фиксация сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление сборки 'D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.exe
+   logfile = D:\Maks\Sibintek\ServiceProjectFileWatcher\ServiceProjectFileWatcher\bin\Debug\ServiceProjectFileWatcher.InstallLog
+Выполняется удаление источника EventLog DesktopFileWatcher.
+Выполняется удаление службы DesktopFileWatcher из системы...
+Служба DesktopFileWatcher успешно удалена из системы.
